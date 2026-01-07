@@ -1,5 +1,7 @@
 # TestSeed 🌱
 
+[![Tested with TestSeed](https://img.shields.io/static/v1?label=tested%20with&message=TestSeed&color=00df9a&style=flat-square&logo=gitbook&logoColor=white)](https://testseed.com)
+
 Deterministic, synthetic test data for reliable CI/CD pipelines and microservice-based systems.
 
 ---
